@@ -1,0 +1,222 @@
+************************ Challenge Starts ************************
+
+{"level": 1, "type": "rot13", "encoded": "qrovna_ynetrfg_rkvfgrq", "decoded": "debian_largest_existed"}
+{"level": 2, "type": "rot13", "encoded": "fvyx_pheeragyl_gbfuvon", "decoded": "silk_currently_toshiba"}
+{"level": 3, "type": "bigint", "encoded": "0x766973697465645f636f6e737472756374696f6e5f65786861757374", "decoded": "visited_construction_exhaust"}
+{"level": 4, "type": "base64", "encoded": "ZGVsYXdhcmVfbmJjX21hcmtldHBsYWNl", "decoded": "delaware_nbc_marketplace"}
+{"level": 5, "type": "rot13", "encoded": "ff_rkcrevrapvat_jvfqbz", "decoded": "ss_experiencing_wisdom"}
+{"level": 6, "type": "hex", "encoded": "736176616e6e61685f626c656e645f636f6d7065746974696f6e", "decoded": "savannah_blend_competition"}
+{"level": 7, "type": "utf-8", "encoded": [110, 101, 116, 119, 111, 114, 107, 95, 99, 97, 112, 97, 98, 105, 108, 105, 116, 121, 95, 98, 101, 105, 110, 103], "decoded": "network_capability_being"}
+{"level": 8, "type": "hex", "encoded": "736d696c6965735f73706f745f727572616c", "decoded": "smilies_spot_rural"}
+{"level": 9, "type": "bigint", "encoded": "0x676174657761795f66616374735f6c6f67696e", "decoded": "gateway_facts_login"}
+{"level": 10, "type": "rot13", "encoded": "ertneqf_uneevfba_cenpgvpny", "decoded": "regards_harrison_practical"}
+{"level": 11, "type": "hex", "encoded": "62756c6c6574696e5f64616d616765645f6f72626974", "decoded": "bulletin_damaged_orbit"}
+{"level": 12, "type": "hex", "encoded": "6d696e6e6561706f6c69735f646f67735f7468657365", "decoded": "minneapolis_dogs_these"}
+{"level": 13, "type": "bigint", "encoded": "0x70726f66657373696f6e616c5f657863656c6c656e745f6775696c64", "decoded": "professional_excellent_guild"}
+{"level": 14, "type": "utf-8", "encoded": [97, 116, 116, 105, 116, 117, 100, 101, 95, 102, 111, 114, 109, 101, 114, 108, 121, 95, 103, 114, 97, 110, 116, 115], "decoded": "attitude_formerly_grants"}
+{"level": 15, "type": "bigint", "encoded": "0x747261696c735f696e746567726174696e675f7468616e", "decoded": "trails_integrating_than"}
+{"level": 16, "type": "base64", "encoded": "aW5mZWN0aW9uX2RhdF9lZHVjYXRpb24=", "decoded": "infection_dat_education"}
+{"level": 17, "type": "bigint", "encoded": "0x706c656173616e745f6164656c616964655f73616e796f", "decoded": "pleasant_adelaide_sanyo"}
+{"level": 18, "type": "bigint", "encoded": "0x626f74746c655f68656c70735f6d616b657273", "decoded": "bottle_helps_makers"}
+{"level": 19, "type": "rot13", "encoded": "urebrf_orag_ubfgryf", "decoded": "heroes_bent_hostels"}
+{"level": 20, "type": "rot13", "encoded": "shaqvat_fryrpg_frcg", "decoded": "funding_select_sept"}
+{"level": 21, "type": "hex", "encoded": "676c656e6e5f73656e73655f626561757479", "decoded": "glenn_sense_beauty"}
+{"level": 22, "type": "hex", "encoded": "6a75616e5f63686573735f6c6971756964", "decoded": "juan_chess_liquid"}
+{"level": 23, "type": "rot13", "encoded": "fpberf_qnivqfba_tenqhngrq", "decoded": "scores_davidson_graduated"}
+{"level": 24, "type": "rot13", "encoded": "hfq_rkuvovgvba_zbz", "decoded": "usd_exhibition_mom"}
+{"level": 25, "type": "base64", "encoded": "b3RoZXJ3aXNlX2NlcmVtb255X2Rhcms=", "decoded": "otherwise_ceremony_dark"}
+{"level": 26, "type": "hex", "encoded": "666f616d5f68616e646c696e675f77616c6c7061706572", "decoded": "foam_handling_wallpaper"}
+{"level": 27, "type": "hex", "encoded": "616c6c61685f657069635f666f6f", "decoded": "allah_epic_foo"}
+{"level": 28, "type": "hex", "encoded": "686f7374696e675f706872617365735f72657669736564", "decoded": "hosting_phrases_revised"}
+{"level": 29, "type": "bigint", "encoded": "0x62697274685f656e68616e63656d656e745f737472", "decoded": "birth_enhancement_str"}
+{"level": 30, "type": "utf-8", "encoded": [104, 97, 108, 102, 95, 97, 110, 97, 108, 121, 122, 101, 100, 95, 116, 104, 105, 110, 107, 105, 110, 103], "decoded": "half_analyzed_thinking"}
+{"level": 31, "type": "hex", "encoded": "666f726563617374735f656e61626c65645f746f6e", "decoded": "forecasts_enabled_ton"}
+{"level": 32, "type": "rot13", "encoded": "fprar_nccrne_oryyr", "decoded": "scene_appear_belle"}
+{"level": 33, "type": "rot13", "encoded": "oynfg_wbva_puvc", "decoded": "blast_join_chip"}
+{"level": 34, "type": "utf-8", "encoded": [109, 101, 114, 99, 104, 97, 110, 116, 95, 97, 100, 109, 105, 110, 105, 115, 116, 114, 97, 116, 111, 114, 115, 95, 115, 104, 97, 112, 101, 100], "decoded": "merchant_administrators_shaped"}
+{"level": 35, "type": "bigint", "encoded": "0x6f696c735f766963746f725f7065726c", "decoded": "oils_victor_perl"}
+{"level": 36, "type": "utf-8", "encoded": [114, 101, 98, 101, 108, 95, 118, 105, 114, 97, 108, 95, 98, 97, 115, 105, 115], "decoded": "rebel_viral_basis"}
+{"level": 37, "type": "bigint", "encoded": "0x73706f6e736f72736869705f747261636b6261636b5f646576656c6f7073", "decoded": "sponsorship_trackback_develops"}
+{"level": 38, "type": "base64", "encoded": "aW5kaWNhdGVzX3N1cnZpdmFsX21lY2hhbmlzbXM=", "decoded": "indicates_survival_mechanisms"}
+{"level": 39, "type": "bigint", "encoded": "0x66726f6d5f62697274686461795f75727567756179", "decoded": "from_birthday_uruguay"}
+{"level": 40, "type": "bigint", "encoded": "0x706f6c6c735f647265775f6c6166617965747465", "decoded": "polls_drew_lafayette"}
+{"level": 41, "type": "bigint", "encoded": "0x63617061636974795f6c6f61645f636f6e74696e756f7573", "decoded": "capacity_load_continuous"}
+{"level": 42, "type": "base64", "encoded": "Y29tcGlsYXRpb25fcmVmZXJzX21hbnVmYWN0dXJlcg==", "decoded": "compilation_refers_manufacturer"}
+{"level": 43, "type": "utf-8", "encoded": [114, 117, 103, 95, 97, 99, 104, 105, 101, 118, 101, 109, 101, 110, 116, 115, 95, 115, 97, 109, 101], "decoded": "rug_achievements_same"}
+{"level": 44, "type": "hex", "encoded": "76656e646f725f636c69705f7068656e6f6d656e6f6e", "decoded": "vendor_clip_phenomenon"}
+{"level": 45, "type": "hex", "encoded": "6578697374696e675f6c61626f725f7468726573686f6c64", "decoded": "existing_labor_threshold"}
+{"level": 46, "type": "base64", "encoded": "Y3VycmljdWx1bV9mYXJlX2dhcmNpYQ==", "decoded": "curriculum_fare_garcia"}
+{"level": 47, "type": "bigint", "encoded": "0x666f6c6c6f7765645f696d706163745f6d75736963616c", "decoded": "followed_impact_musical"}
+{"level": 48, "type": "hex", "encoded": "616363757365645f626974655f696e646f6e657369616e", "decoded": "accused_bite_indonesian"}
+{"level": 49, "type": "base64", "encoded": "ZGV0YWlsX2JhcmNlbG9uYV91c2U=", "decoded": "detail_barcelona_use"}
+{"level": 50, "type": "hex", "encoded": "6269626c696f677261706869635f626f74746c65735f676c", "decoded": "bibliographic_bottles_gl"}
+{"level": 51, "type": "bigint", "encoded": "0x6f636375706174696f6e735f7075626c69635f7377696d", "decoded": "occupations_public_swim"}
+{"level": 52, "type": "hex", "encoded": "6e6f76656c735f6e65776c795f7465", "decoded": "novels_newly_te"}
+{"level": 53, "type": "hex", "encoded": "666967757265645f68696c746f6e5f70726f74", "decoded": "figured_hilton_prot"}
+{"level": 54, "type": "utf-8", "encoded": [114, 101, 115, 112, 111, 110, 100, 101, 110, 116, 115, 95, 114, 97, 105, 100, 95, 103, 111, 118, 101, 114, 110, 109, 101, 110, 116, 115], "decoded": "respondents_raid_governments"}
+{"level": 55, "type": "rot13", "encoded": "rkcyber_fpbhg_gvy", "decoded": "explore_scout_til"}
+{"level": 56, "type": "rot13", "encoded": "onaqjvqgu_qevire_wnmm", "decoded": "bandwidth_driver_jazz"}
+{"level": 57, "type": "base64", "encoded": "bG9nZ2VkX2VsbGVuX2V2aWw=", "decoded": "logged_ellen_evil"}
+{"level": 58, "type": "bigint", "encoded": "0x72656d61696e65645f677269645f636f737461", "decoded": "remained_grid_costa"}
+{"level": 59, "type": "utf-8", "encoded": [97, 110, 121, 111, 110, 101, 95, 105, 110, 99, 114, 101, 97, 115, 105, 110, 103, 95, 115, 116, 111, 114, 101], "decoded": "anyone_increasing_store"}
+{"level": 60, "type": "utf-8", "encoded": [116, 114, 101, 111, 95, 109, 97, 100, 111, 110, 110, 97, 95, 97, 99, 99, 114, 101, 100, 105, 116, 97, 116, 105, 111, 110], "decoded": "treo_madonna_accreditation"}
+{"level": 61, "type": "bigint", "encoded": "0x6c6f61645f7368616b6972615f6d79657273", "decoded": "load_shakira_myers"}
+{"level": 62, "type": "utf-8", "encoded": [119, 105, 114, 101, 95, 101, 110, 108, 97, 114, 103, 101, 95, 112, 117, 112, 105, 108, 115], "decoded": "wire_enlarge_pupils"}
+{"level": 63, "type": "hex", "encoded": "67726f77735f656e676167696e675f6973616163", "decoded": "grows_engaging_isaac"}
+{"level": 64, "type": "base64", "encoded": "ZXh0ZXJpb3JfY2hlY2tfc2VhcmNoaW5n", "decoded": "exterior_check_searching"}
+{"level": 65, "type": "hex", "encoded": "65637561646f725f726973655f7269636861726473", "decoded": "ecuador_rise_richards"}
+{"level": 66, "type": "utf-8", "encoded": [97, 119, 101, 115, 111, 109, 101, 95, 114, 101, 115, 105, 115, 116, 97, 110, 99, 101, 95, 99, 108, 105, 101, 110, 116], "decoded": "awesome_resistance_client"}
+{"level": 67, "type": "rot13", "encoded": "grnpuref_qbht_chavfuzrag", "decoded": "teachers_doug_punishment"}
+{"level": 68, "type": "utf-8", "encoded": [115, 117, 114, 118, 105, 118, 111, 114, 115, 95, 115, 104, 97, 107, 101, 115, 112, 101, 97, 114, 101, 95, 102, 97, 107, 101], "decoded": "survivors_shakespeare_fake"}
+{"level": 69, "type": "hex", "encoded": "7072696d655f6578706c61696e65645f6261636b6564", "decoded": "prime_explained_backed"}
+{"level": 70, "type": "base64", "encoded": "ZnJlcXVlbmNpZXNfdHJlYXN1cmVzX2NvbmNlcm4=", "decoded": "frequencies_treasures_concern"}
+{"level": 71, "type": "rot13", "encoded": "ryrtnag_yrf_tnynkl", "decoded": "elegant_les_galaxy"}
+{"level": 72, "type": "rot13", "encoded": "vzcerffvir_punaary_jnezvat", "decoded": "impressive_channel_warming"}
+{"level": 73, "type": "rot13", "encoded": "uneqre_beqref_svercynpr", "decoded": "harder_orders_fireplace"}
+{"level": 74, "type": "hex", "encoded": "6368616c6c656e6765645f656c6c696f74745f696e6974696174697665", "decoded": "challenged_elliott_initiative"}
+{"level": 75, "type": "rot13", "encoded": "fbzrjung_puvc_ovbgrpuabybtl", "decoded": "somewhat_chip_biotechnology"}
+{"level": 76, "type": "base64", "encoded": "cmVwcm9kdWN0aXZlX2VkaXRpb25zX3RpbGw=", "decoded": "reproductive_editions_till"}
+{"level": 77, "type": "utf-8", "encoded": [99, 111, 110, 103, 114, 97, 116, 117, 108, 97, 116, 105, 111, 110, 115, 95, 115, 101, 97, 108, 101, 100, 95, 116, 114, 97, 118, 101, 108, 108, 105, 110, 103], "decoded": "congratulations_sealed_travelling"}
+{"level": 78, "type": "hex", "encoded": "657865637574696f6e5f6174746974756465735f746f7572697374", "decoded": "execution_attitudes_tourist"}
+{"level": 79, "type": "base64", "encoded": "Y2hyaXN0aWFuX2V4cGxhaW5pbmdfbmc=", "decoded": "christian_explaining_ng"}
+{"level": 80, "type": "base64", "encoded": "Z2lmdHNfc2FsdmF0aW9uX3ByZWZlcg==", "decoded": "gifts_salvation_prefer"}
+{"level": 81, "type": "rot13", "encoded": "cnlzragf_pbeerfcbaqrapr_crezvgf", "decoded": "payments_correspondence_permits"}
+{"level": 82, "type": "rot13", "encoded": "oneevref_ohggresyl_vaqvr", "decoded": "barriers_butterfly_indie"}
+{"level": 83, "type": "utf-8", "encoded": [100, 111, 118, 101, 114, 95, 97, 116, 116, 101, 110, 116, 105, 111, 110, 95, 110, 101, 114, 118, 111, 117, 115], "decoded": "dover_attention_nervous"}
+{"level": 84, "type": "rot13", "encoded": "jvafgba_bmbar_cersrerapr", "decoded": "winston_ozone_preference"}
+{"level": 85, "type": "base64", "encoded": "cmFkaWF0aW9uX2RpZmZpY3VsdF9tb250aA==", "decoded": "radiation_difficult_month"}
+{"level": 86, "type": "rot13", "encoded": "qrynl_gbavtug_ybtna", "decoded": "delay_tonight_logan"}
+{"level": 87, "type": "utf-8", "encoded": [115, 97, 110, 116, 97, 95, 112, 117, 98, 108, 105, 115, 104, 105, 110, 103, 95, 110, 100], "decoded": "santa_publishing_nd"}
+{"level": 88, "type": "utf-8", "encoded": [108, 105, 115, 116, 101, 110, 105, 110, 103, 95, 97, 100, 100, 114, 101, 115, 115, 101, 100, 95, 115, 109, 105, 116, 104, 115, 111, 110, 105, 97, 110], "decoded": "listening_addressed_smithsonian"}
+{"level": 89, "type": "rot13", "encoded": "aniny_objyvat_qvirefr", "decoded": "naval_bowling_diverse"}
+{"level": 90, "type": "base64", "encoded": "dGhpY2tfcHJvZHVjdGl2aXR5X2FyY2hpdmU=", "decoded": "thick_productivity_archive"}
+{"level": 91, "type": "rot13", "encoded": "bssvpvnyyl_yn_ivq", "decoded": "officially_la_vid"}
+{"level": 92, "type": "utf-8", "encoded": [98, 111, 116, 104, 95, 108, 101, 97, 100, 101, 114, 115, 95, 99, 104, 105, 110, 101, 115, 101], "decoded": "both_leaders_chinese"}
+{"level": 93, "type": "base64", "encoded": "aW5jbHVzaW9uX3BpY3R1cmVzX3J1bGVz", "decoded": "inclusion_pictures_rules"}
+{"level": 94, "type": "hex", "encoded": "70656e6e5f726576656e75655f67656e657261746564", "decoded": "penn_revenue_generated"}
+{"level": 95, "type": "hex", "encoded": "69616e5f6469705f77617264", "decoded": "ian_dip_ward"}
+{"level": 96, "type": "hex", "encoded": "7a6f70655f77616b655f736170", "decoded": "zope_wake_sap"}
+{"level": 97, "type": "base64", "encoded": "ZW5jb3VyYWdlX29ha3NfZGF0", "decoded": "encourage_oaks_dat"}
+{"level": 98, "type": "rot13", "encoded": "cebzcg_jebgr_tneontr", "decoded": "prompt_wrote_garbage"}
+{"level": 99, "type": "base64", "encoded": "ZnJhdWRfbmV1dHJhbF90b21vcnJvdw==", "decoded": "fraud_neutral_tomorrow"}
+{"level": 100, "type": "base64", "encoded": "ZmFzaGlvbl9wYXBlcmJhY2tzX3RoZW9yaWVz", "decoded": "fashion_paperbacks_theories"}
+
+
+The flag is : crypto{3nc0d3_d3c0d3_3nc0d3}
+
+####################### Challenge Ends #######################
+
+
+
+
+************************ Challenge Starts ************************
+
+{"level": 1, "type": "bigint", "encoded": "0x77696c6c69616d735f656c69676962696c6974795f72656c617469766573", "decoded": "williams_eligibility_relatives"}
+{"level": 2, "type": "bigint", "encoded": "0x6167726565735f667269656e646c795f696473", "decoded": "agrees_friendly_ids"}
+{"level": 3, "type": "base64", "encoded": "cGVzdF9hdHRhY2tzX3Nob3VsZGVy", "decoded": "pest_attacks_shoulder"}
+{"level": 4, "type": "utf-8", "encoded": [103, 97, 118, 101, 95, 104, 101, 108, 101, 110, 97, 95, 112, 101, 116, 101, 114, 115, 111, 110], "decoded": "gave_helena_peterson"}
+{"level": 5, "type": "hex", "encoded": "646963655f73686f705f7061727469616c6c79", "decoded": "dice_shop_partially"}
+{"level": 6, "type": "bigint", "encoded": "0x6275747465725f646565706c795f72656c6174697665", "decoded": "butter_deeply_relative"}
+{"level": 7, "type": "rot13", "encoded": "gryrivfvbaf_jntare_rkpunatr", "decoded": "televisions_wagner_exchange"}
+{"level": 8, "type": "utf-8", "encoded": [112, 114, 101, 102, 101, 114, 95, 115, 104, 111, 101, 95, 117, 115, 112, 115], "decoded": "prefer_shoe_usps"}
+{"level": 9, "type": "hex", "encoded": "706d69645f73746f7070696e675f646174", "decoded": "pmid_stopping_dat"}
+{"level": 10, "type": "utf-8", "encoded": [97, 108, 105, 97, 115, 95, 99, 108, 97, 115, 115, 101, 115, 95, 112, 97, 116, 101, 110, 116], "decoded": "alias_classes_patent"}
+{"level": 11, "type": "bigint", "encoded": "0x657870656e73655f796561725f7a75", "decoded": "expense_year_zu"}
+{"level": 12, "type": "bigint", "encoded": "0x657863697465645f68616d6d65725f7476", "decoded": "excited_hammer_tv"}
+{"level": 13, "type": "rot13", "encoded": "syrkvovyvgl_ornef_fbzrbar", "decoded": "flexibility_bears_someone"}
+{"level": 14, "type": "hex", "encoded": "7072696d6172696c795f736f6d616c69615f73747564656e74", "decoded": "primarily_somalia_student"}
+{"level": 15, "type": "base64", "encoded": "cGx1Z19hdGlfYWNjb3VudGFiaWxpdHk=", "decoded": "plug_ati_accountability"}
+{"level": 16, "type": "bigint", "encoded": "0x6672696461795f6c6f6e675f6465736b746f70", "decoded": "friday_long_desktop"}
+{"level": 17, "type": "hex", "encoded": "6261696c65795f62616368656c6f725f686f706573", "decoded": "bailey_bachelor_hopes"}
+{"level": 18, "type": "bigint", "encoded": "0x696e7465726e65745f636a5f62616e6b73", "decoded": "internet_cj_banks"}
+{"level": 19, "type": "rot13", "encoded": "grkgvyrf_qrsvpvg_frr", "decoded": "textiles_deficit_see"}
+{"level": 20, "type": "rot13", "encoded": "zbqvsvpngvbaf_lvryqf_irefvbaf", "decoded": "modifications_yields_versions"}
+{"level": 21, "type": "base64", "encoded": "cG9zZV9taW5pX2Jz", "decoded": "pose_mini_bs"}
+{"level": 22, "type": "base64", "encoded": "YWR2YW5jZWRfYmVsZmFzdF9uZXdzbGV0dGVy", "decoded": "advanced_belfast_newsletter"}
+{"level": 23, "type": "bigint", "encoded": "0x776f7272795f766563746f725f6f72616c", "decoded": "worry_vector_oral"}
+{"level": 24, "type": "rot13", "encoded": "obyg_ebpxrg_nrebfcnpr", "decoded": "bolt_rocket_aerospace"}
+{"level": 25, "type": "base64", "encoded": "aV9pbmZhbnRfbno=", "decoded": "i_infant_nz"}
+{"level": 26, "type": "base64", "encoded": "ZWZmZWN0aXZlbmVzc19raXRjaGVuX2Jhc2lz", "decoded": "effectiveness_kitchen_basis"}
+{"level": 27, "type": "utf-8", "encoded": [99, 97, 115, 105, 110, 111, 115, 95, 104, 105, 103, 104, 95, 100, 105, 115, 112, 97, 116, 99, 104], "decoded": "casinos_high_dispatch"}
+{"level": 28, "type": "hex", "encoded": "7761796e655f636c6f6e655f637265616d", "decoded": "wayne_clone_cream"}
+{"level": 29, "type": "rot13", "encoded": "pynver_cbfr_crey", "decoded": "claire_pose_perl"}
+{"level": 30, "type": "hex", "encoded": "70616e656c5f6d61737465725f636f6e76657274", "decoded": "panel_master_convert"}
+{"level": 31, "type": "bigint", "encoded": "0x6272617a696c69616e5f656c656374726963616c5f6e747363", "decoded": "brazilian_electrical_ntsc"}
+{"level": 32, "type": "utf-8", "encoded": [108, 105, 110, 107, 101, 100, 95, 101, 101, 95, 115, 97, 109, 111, 97], "decoded": "linked_ee_samoa"}
+{"level": 33, "type": "bigint", "encoded": "0x737570706c656d656e74735f636f757273655f7363656e65", "decoded": "supplements_course_scene"}
+{"level": 34, "type": "rot13", "encoded": "nyna_pbafgvghgrf_qvivfvba", "decoded": "alan_constitutes_division"}
+{"level": 35, "type": "base64", "encoded": "YmxhbmtfY2xhaW1lZF92ZXRlcmluYXJ5", "decoded": "blank_claimed_veterinary"}
+{"level": 36, "type": "base64", "encoded": "YmFuZHNfcGljX2Fycm93", "decoded": "bands_pic_arrow"}
+{"level": 37, "type": "base64", "encoded": "bGV0c19rYXRyaW5hX21vdGhlcg==", "decoded": "lets_katrina_mother"}
+{"level": 38, "type": "utf-8", "encoded": [99, 104, 97, 114, 103, 101, 114, 95, 100, 105, 115, 99, 117, 115, 115, 101, 100, 95, 99, 111, 110, 115, 117, 108, 116, 97, 110, 116, 115], "decoded": "charger_discussed_consultants"}
+{"level": 39, "type": "hex", "encoded": "6372656174757265735f776f72736869705f65787069726573", "decoded": "creatures_worship_expires"}
+{"level": 40, "type": "hex", "encoded": "736f7574685f666967687465725f636f6c6c696e73", "decoded": "south_fighter_collins"}
+{"level": 41, "type": "hex", "encoded": "73706f6b656e5f6865627265775f77616974", "decoded": "spoken_hebrew_wait"}
+{"level": 42, "type": "rot13", "encoded": "le_frnsbbq_qrivy", "decoded": "yr_seafood_devil"}
+{"level": 43, "type": "base64", "encoded": "b2NjYXNpb25zX3RpdGxlX3dlYmxvZw==", "decoded": "occasions_title_weblog"}
+{"level": 44, "type": "base64", "encoded": "Y2FtcGFpZ25fdHJhY2Vfc2hhcnA=", "decoded": "campaign_trace_sharp"}
+{"level": 45, "type": "rot13", "encoded": "qnatre_ortha_uryra", "decoded": "danger_begun_helen"}
+{"level": 46, "type": "utf-8", "encoded": [100, 105, 115, 99, 105, 112, 108, 105, 110, 97, 114, 121, 95, 117, 115, 101, 95, 115, 116, 97, 114, 116, 115], "decoded": "disciplinary_use_starts"}
+{"level": 47, "type": "utf-8", "encoded": [109, 101, 97, 110, 119, 104, 105, 108, 101, 95, 114, 101, 115, 116, 114, 105, 99, 116, 101, 100, 95, 101, 108, 101, 103, 97, 110, 116], "decoded": "meanwhile_restricted_elegant"}
+{"level": 48, "type": "base64", "encoded": "ZGVwYXJ0bWVudHNfd2FubmFfY2FtcGJlbGw=", "decoded": "departments_wanna_campbell"}
+{"level": 49, "type": "utf-8", "encoded": [101, 117, 114, 111, 115, 95, 119, 111, 114, 115, 116, 95, 100, 114, 101, 115, 115], "decoded": "euros_worst_dress"}
+{"level": 50, "type": "rot13", "encoded": "pyrnahc_puebavp_sngr", "decoded": "cleanup_chronic_fate"}
+{"level": 51, "type": "hex", "encoded": "66616c6c656e5f6e6f6b69615f7261", "decoded": "fallen_nokia_ra"}
+{"level": 52, "type": "rot13", "encoded": "nezravn_navzngvba_qvfgvathvfurq", "decoded": "armenia_animation_distinguished"}
+{"level": 53, "type": "hex", "encoded": "73706f746c696768745f6f635f6576616c756174696e67", "decoded": "spotlight_oc_evaluating"}
+{"level": 54, "type": "base64", "encoded": "Y29hbF9hdXRvbW9iaWxlX2NsaWNrcw==", "decoded": "coal_automobile_clicks"}
+{"level": 55, "type": "bigint", "encoded": "0x666565645f746167735f6672616d696e67", "decoded": "feed_tags_framing"}
+{"level": 56, "type": "base64", "encoded": "Z2VuZXNpc19mYXJtZXJzX3BlcmZvcm1lcg==", "decoded": "genesis_farmers_performer"}
+{"level": 57, "type": "utf-8", "encoded": [97, 117, 115, 95, 100, 101, 110, 116, 97, 108, 95, 112, 97, 105, 110, 102, 117, 108], "decoded": "aus_dental_painful"}
+{"level": 58, "type": "bigint", "encoded": "0x77616c65735f7265736f72745f7365616e", "decoded": "wales_resort_sean"}
+{"level": 59, "type": "utf-8", "encoded": [104, 105, 109, 95, 109, 97, 116, 99, 104, 101, 115, 95, 100, 101, 109, 97, 110, 100], "decoded": "him_matches_demand"}
+{"level": 60, "type": "bigint", "encoded": "0x727567735f766f696365735f6e65636573736172696c79", "decoded": "rugs_voices_necessarily"}
+{"level": 61, "type": "rot13", "encoded": "cip_onax_yrkznex", "decoded": "pvc_bank_lexmark"}
+{"level": 62, "type": "hex", "encoded": "6c617567685f6578656d7074696f6e5f6c617267656c79", "decoded": "laugh_exemption_largely"}
+{"level": 63, "type": "base64", "encoded": "c2lnbnNfaG9uZXN0X2Rlc3BpdGU=", "decoded": "signs_honest_despite"}
+{"level": 64, "type": "bigint", "encoded": "0x6d6f76696e675f706173736976655f70726f706572", "decoded": "moving_passive_proper"}
+{"level": 65, "type": "rot13", "encoded": "cynlrq_senzvat_srire", "decoded": "played_framing_fever"}
+{"level": 66, "type": "hex", "encoded": "62657665726167655f7369676e5f70726576656e74", "decoded": "beverage_sign_prevent"}
+{"level": 67, "type": "rot13", "encoded": "glcvat_pbafvqref_br", "decoded": "typing_considers_oe"}
+{"level": 68, "type": "rot13", "encoded": "tvira_qraznex_bssfuber", "decoded": "given_denmark_offshore"}
+{"level": 69, "type": "bigint", "encoded": "0x6d6f645f616e696d616c5f6c6f7773", "decoded": "mod_animal_lows"}
+{"level": 70, "type": "base64", "encoded": "YWxzb19taXNzaXNzaXBwaV92YWx1YXRpb24=", "decoded": "also_mississippi_valuation"}
+{"level": 71, "type": "bigint", "encoded": "0x72696768745f73696c6c795f6369746174696f6e", "decoded": "right_silly_citation"}
+{"level": 72, "type": "rot13", "encoded": "sov_zrqvpngvba_qrnqyl", "decoded": "fbi_medication_deadly"}
+{"level": 73, "type": "base64", "encoded": "c3ViamVjdGl2ZV9yZWZyZXNoX2dvcmRvbg==", "decoded": "subjective_refresh_gordon"}
+{"level": 74, "type": "bigint", "encoded": "0x6f7074696d697a655f77617272616e745f7072696e746564", "decoded": "optimize_warrant_printed"}
+{"level": 75, "type": "bigint", "encoded": "0x7369675f6762615f66697374", "decoded": "sig_gba_fist"}
+{"level": 76, "type": "hex", "encoded": "7265675f636f616c5f6564676172", "decoded": "reg_coal_edgar"}
+{"level": 77, "type": "rot13", "encoded": "pz_pybfr_vagreivrjf", "decoded": "cm_close_interviews"}
+{"level": 78, "type": "utf-8", "encoded": [105, 115, 115, 110, 95, 119, 105, 110, 115, 95, 97, 110, 116, 105, 113, 117, 101], "decoded": "issn_wins_antique"}
+{"level": 79, "type": "base64", "encoded": "bW96YW1iaXF1ZV92YWxpZGl0eV9zbW9vdGg=", "decoded": "mozambique_validity_smooth"}
+{"level": 80, "type": "bigint", "encoded": "0x7068696c6f736f7068795f7265636f676e697365645f74616b65", "decoded": "philosophy_recognised_take"}
+{"level": 81, "type": "utf-8", "encoded": [104, 105, 109, 95, 99, 111, 109, 112, 105, 108, 97, 116, 105, 111, 110, 95, 115, 112, 101, 99, 105, 97, 108], "decoded": "him_compilation_special"}
+{"level": 82, "type": "base64", "encoded": "Z29yZV9zbG93bHlfdW5h", "decoded": "gore_slowly_una"}
+{"level": 83, "type": "bigint", "encoded": "0x6d696c746f6e5f696e74726f64756374696f6e5f616e64726577", "decoded": "milton_introduction_andrew"}
+{"level": 84, "type": "bigint", "encoded": "0x795f6e6f7465735f686974", "decoded": "y_notes_hit"}
+{"level": 85, "type": "rot13", "encoded": "fzvyvrf_vzcbffvoyr_gbyq", "decoded": "smilies_impossible_told"}
+{"level": 86, "type": "rot13", "encoded": "fhozvggrq_jngpu_ergheavat", "decoded": "submitted_watch_returning"}
+{"level": 87, "type": "bigint", "encoded": "0x696e737472756374696f6e735f6661725f676f74", "decoded": "instructions_far_got"}
+{"level": 88, "type": "base64", "encoded": "c291bF9kaXZlcnNlX2FpcnBvcnQ=", "decoded": "soul_diverse_airport"}
+{"level": 89, "type": "bigint", "encoded": "0x6c69666574696d655f646566696e655f65647761726473", "decoded": "lifetime_define_edwards"}
+{"level": 90, "type": "utf-8", "encoded": [115, 104, 101, 108, 102, 95, 106, 115, 95, 99, 108, 97, 105, 109, 115], "decoded": "shelf_js_claims"}
+{"level": 91, "type": "bigint", "encoded": "0x65655f6761627269656c5f696c", "decoded": "ee_gabriel_il"}
+{"level": 92, "type": "hex", "encoded": "6269626c696f6772617068795f626f6f6b735f726570726573656e746174696f6e", "decoded": "bibliography_books_representation"}
+{"level": 93, "type": "utf-8", "encoded": [97, 118, 105, 97, 116, 105, 111, 110, 95, 117, 112, 103, 114, 97, 100, 101, 115, 95, 101, 110, 103, 105, 110, 101, 101, 114, 105, 110, 103], "decoded": "aviation_upgrades_engineering"}
+{"level": 94, "type": "rot13", "encoded": "fgrira_punenpgrevmngvba_cnevfu", "decoded": "steven_characterization_parish"}
+{"level": 95, "type": "hex", "encoded": "6e616d65735f76657269666965645f756e697473", "decoded": "names_verified_units"}
+{"level": 96, "type": "bigint", "encoded": "0x736563757269746965735f696e636f6d655f6f", "decoded": "securities_income_o"}
+{"level": 97, "type": "base64", "encoded": "aG91c2V3aXZlc19yZWR1Y2VfYmFjb24=", "decoded": "housewives_reduce_bacon"}
+{"level": 98, "type": "bigint", "encoded": "0x616e796d6f72655f616d795f73756e646179", "decoded": "anymore_amy_sunday"}
+{"level": 99, "type": "hex", "encoded": "66616365735f7365715f62656c7473", "decoded": "faces_seq_belts"}
+{"level": 100, "type": "hex", "encoded": "656e7465725f6571756174696f6e735f7261746564", "decoded": "enter_equations_rated"}
+
+
+The flag is : crypto{3nc0d3_d3c0d3_3nc0d3}
+
+####################### Challenge Ends #######################
+
+
+
+

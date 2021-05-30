@@ -22,8 +22,6 @@ longInt = "115151950638623188999316854888137473957755162872896826364999652827146
 
 # convert base-10 to base64
 flagInBytes = number.long_to_bytes(longInt)
-print(help(number))
-print(number.tobytes("0x7573635f7265666f726d735f7472656173757265").decode("ASCII"))
 
 # decode the bytes (base64) to ASCII
 flagInASCII = flagInBytes.decode("ASCII")
